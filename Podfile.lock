@@ -1,0 +1,24 @@
+PODS:
+  - MJRefresh (3.1.15.3)
+  - RxSwift (4.2.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - MJRefresh (~> 3.1.15.3)
+  - RxSwift (~> 4.2.0)
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJRefresh
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: cd8e44b030ba0985aeaeb16b6e3ecb9f9a4247cc
+
+COCOAPODS: 1.5.3
